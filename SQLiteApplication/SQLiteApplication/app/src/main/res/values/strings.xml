@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteApplication</string>
+    <string name="t_n_kh_ch_h_ng">Tên khách hàng</string>
+    <string name="nam">Nam</string>
+    <string name="birthday">Birthday</string>
+    <string name="todo">TODO</string>
+</resources>
